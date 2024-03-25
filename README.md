@@ -1,5 +1,4 @@
 # 🕷Venom Bot🕸
-
 ## Help Keep This Project Going
 With your support, we can sustain this project. If you use this project for work, know that you can contribute financially to its success!
 <br>
